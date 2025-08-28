@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Playwright test output
+test-results/
+playwright-report/
+blob-report/
+*.zip
+
+# Environment secrets
+.env
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
