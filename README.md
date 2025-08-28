@@ -11,7 +11,7 @@ It connects to my personal Google Sheet (where I log applications) and uses Play
 
 ### What I want to implement
 
-* I am adding atleast 2 entries per weekday
+* Test to ensure that I am adding atleast 2 entries per weekday
 * Runs routinely, every weeknight
 * Some notification system to alert me when a failure occurs 
 
